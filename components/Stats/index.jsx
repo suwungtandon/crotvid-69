@@ -129,7 +129,7 @@ export default ({
       </ChartWrapper>
       <Source>
         <a
-          href="https://github.com/smakosh/covid-19-next"
+          href="https://github.com/suwungtandon/crotvid-69"
           target="__blank"
           rel="noopener noreferrer"
         >
@@ -137,7 +137,7 @@ export default ({
         </a>
         <span>|</span>
         <a
-          href="https://github.com/mathdroid/covid-19-api"
+          href="https://github.com/mathdroid/covid-19-api/"
           target="__blank"
           rel="noopener noreferrer"
         >
